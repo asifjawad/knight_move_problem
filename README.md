@@ -55,4 +55,4 @@ The script employs a algorithm to find the shortest paths for the knight on a ch
 
 Contributions to this project are welcome. Feel free to open issues or pull requests to suggest improvements or report bugs.
 
-![ChessBoard](./rcs/km.png)
+![ChessBoard](./rcs/Km.png)
